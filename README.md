@@ -25,19 +25,20 @@ This project performs differential gene expression analysis on RNA-seq data to i
 
 ---
 
-## 📊 Results
-- Identified significantly upregulated and downregulated genes
-- PCA shows clustering between conditions
-- Immune-related pathways enriched
+## 📊 Key Results
 
----
+- Identified 2806 significant genes
+- PCA shows clear separation between diabetic and non-diabetic samples
+- KNN classification accuracy: 100%
+- Top discriminant genes identified
 
 ## 📈 Visualizations
-- Volcano Plot
-- Heatmap of top genes
-- PCA Plot
 
----
+### PCA Plot
+![PCA](figures/pca_plot.png)
+
+### Heatmap
+![Heatmap](figures/heatmap.png)
 
 ## ⚙️ How to Run
 
