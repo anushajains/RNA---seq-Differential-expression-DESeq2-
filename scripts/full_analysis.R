@@ -3,7 +3,7 @@
 
 library(R.utils)
 #reading in the data of diabetic and nondiabetic renal tissue in mice
-data_project <- read.table("C:\\Users\\anush\\Downloads\\GSE642_series_matrix.txt", sep = "",header = TRUE, row.names = 1)
+data_project <- read.table("data/GSE642_series_matrix.txt", sep = "",header = TRUE, row.names = 1)
 
 
 #changing column names of samples to show which are diabetic samples and which arent
