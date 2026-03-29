@@ -35,10 +35,16 @@ This project performs differential gene expression analysis on RNA-seq data to i
 ## 📈 Visualizations
 
 ### PCA Plot
-![PCA](figures/pca_plot.png)
+![PCA](figures/pca.png)
 
 ### Heatmap
 ![Heatmap](figures/heatmap.png)
+
+### SCREE and KNN plot
+![KNN](figures/scree_KNN.png)
+
+### Normalization methods
+![Normalized](figures/normalized.png)
 
 ## ⚙️ How to Run
 
